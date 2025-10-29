@@ -11,3 +11,7 @@ function bubbleshort(){
 
 
 }
+
+function mergesort(){
+    
+}
