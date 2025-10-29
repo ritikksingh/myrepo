@@ -13,7 +13,5 @@ function bubbleshort(){
 }
 
 function mergesort(){
-
+    
 }
-
-timepass;
